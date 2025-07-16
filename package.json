@@ -1,0 +1,19 @@
+{
+  "name": "rock_paper_scissors",
+  "version": "1.0.0",
+  "description": "A simple Fun Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rock",
+    "paper",
+    "scissor"
+  ],
+  "author": "Aayush Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
